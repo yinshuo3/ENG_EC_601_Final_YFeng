@@ -4,3 +4,4 @@ nov27d for focus mode scan; nov27e for scanner move left; nov28a for scanner mov
 Hardware: Arduino UNO R3, Breadboard & Jump Wires, HR-SC04 Ultrasonic Distance Sensor x3.
 
 Demo Video: https://youtu.be/N8tVyZi_IQE
+Presentation is Final Poster.pdf
